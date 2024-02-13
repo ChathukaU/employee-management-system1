@@ -1,0 +1,23 @@
+/* Edit Button Styles */
+.btn.btn-primary {
+    /* Other styles... */
+    padding: 5px 10px; 
+    margin-right: 5px;
+    background-color: #5c02ac;
+}
+
+/* Delete Button Styles */
+.btn.btn-danger {
+    
+    padding: 5px 10px; 
+}
+
+.btn.btn-primary:hover {
+    background-color: #400177; 
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    color: #777;
+}

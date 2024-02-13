@@ -1,0 +1,72 @@
+/* Styles for the About Us page */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f8f8f8;
+}
+
+header {
+    background-color: #5c02ac;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+section {
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    color: #777;
+}
+
+/* About Us Page Styles */
+.about-us {
+    font-family: Arial, sans-serif;
+    color: #333;
+    padding: 20px;
+}
+
+.about-us h1 {
+    text-align: center;
+    color: #007BFF;
+}
+
+.about-us p {
+    line-height: 1.6;
+}
+
+.about-us img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+.about-us .team-member {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.about-us .team-member img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+.about-us .team-member h2 {
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+.about-us .team-member p {
+    font-size: 18px;
+    color: #666;
+}
+
+/* Path: src/app/Pages/about-us-page/about-us-page.component.html */
